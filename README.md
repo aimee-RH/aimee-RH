@@ -1,8 +1,8 @@
-### Hi there 👋, I'm [你的名字]
+### Hi there 👋, I'm Ruihuan Gao
 
-**MSCS Student at Georgia Tech | Backend Developer | Distributed Systems Enthusiast**
+**MSCSE Student at Georgia Tech | Backend Developer | Distributed Systems Enthusiast**
 
-I am currently pursuing my Master's in Computer Science at **Georgia Institute of Technology**, specializing in Computing Systems. I have a strong passion for building high-concurrency distributed systems, digging into database internals, and engineering efficient data pipelines.
+I am currently pursuing my Master's in Computational Science and Engineering at **Georgia Institute of Technology**, specializing in Computing Systems. I have a strong passion for building high-concurrency distributed systems, digging into database internals, and engineering efficient data pipelines.
 
 - 🔭 I’m currently working on **Distributed System Design & Optimization**
 - 🎓 I’m studying at **Georgia Institute of Technology (GT)**
@@ -64,7 +64,7 @@ I am currently pursuing my Master's in Computer Science at **Georgia Institute o
   <a href="https://aimee-RH.github.io">
     <img src="https://img.shields.io/badge/Visit_My_Personal_Website-000000?style=for-the-badge&logo=github&logoColor=white" alt="Website" />
   </a>
-  <a href="https://www.linkedin.com/in/[你的LinkedInID]/">
+  <a href="https://www.linkedin.com/in/ruihuan-gao-a5ba2b338/">
     <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
