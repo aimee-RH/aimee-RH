@@ -54,7 +54,7 @@ I am currently pursuing my Master's in Computational Science and Engineering at 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aimee-RH&show_icons=true&theme=radical&count_private=true" height="180" alt="stats" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=aimee-RH&show_icons=true&theme=radical&count_private=true" height="180" alt="stats" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aimee-RH&layout=compact&theme=radical" height="180" alt="languages" />
 </div>
 
