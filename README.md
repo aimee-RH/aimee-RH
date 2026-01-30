@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Ruihuan Gao
+### Hi there 👋, I'm Aimee(Ruihuan) Gao
 
 **MSCSE Student at Georgia Tech | Backend Developer | Distributed Systems Enthusiast**
 
