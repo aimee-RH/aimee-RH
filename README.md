@@ -22,24 +22,35 @@ I am currently pursuing my Master's in Computational Science and Engineering at 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-
 ### 🚀 Featured Projects
 
-#### 🛍️ High-Availability Distributed Coupon System
-*Designed and implemented a high-concurrency backend system capable of handling flash-sale scenarios.*
-- **Tech Stack:** Java, Spring Boot, Redis (Lua Scripts), RocketMQ, ShardingSphere.
-- **Highlights:** Solved core concurrency issues including **Cache Penetration/Breakdown** and **Overselling** using Redis atomicity; implemented **Traffic Shaping** with RocketMQ.
+#### 🛍️ [Distributed Coupon System](https://github.com/aimee-RH/distributed-coupon-system)
 
-#### 🗄️ Relational Database Kernel Implementation (CS186)
-*Built a functional database management system from scratch to understand low-level internals.*
-- **Tech Stack:** Java, B+ Tree, Multigranularity Locking, WAL.
-- **Highlights:** Implemented **ACID transactions**, **Query Optimization**, and **Crash Recovery** mechanisms based on Write-Ahead Logging.
+*Distributed coupon system architecture and a runnable lab for concurrent redemption and failure recovery.*
 
-#### 🗣️ Minority Language Data Pipeline Automation
-*Engineered a full-stack automated script for Manchu/Tibetan text processing.*
-- **Tech Stack:** Python, OpenCV, PyTorch.
-- **Highlights:** Improved data processing efficiency by **85%** through automated segmentation and API-based validation logic.
+- **Tech Stack:** Redis, MySQL, Lua, Docker, Prometheus, Grafana.
+- **Highlights:** Implemented atomic stock reservation, idempotent redemption, and cross-instance consistency checks. Built a two-instance failure-testing lab with observability and recovery mechanisms.
 
+#### 🔐 [Secure File Storage & Sharing System](https://github.com/aimee-RH/security-file-system)
+
+*A secure file-sharing system designed for untrusted storage environments.*
+
+- **Tech Stack:** Go, Gin, REST APIs, AES-256, RSA, HMAC.
+- **Highlights:** Implemented encrypted file sharing, recursive access revocation with key rotation, and concurrency-safe file operations. Extended the system with authentication, rate limiting, and adversarial testing.
+
+#### 🤖 [Scholar Compass — Agentic Research Advisor](https://github.com/aimee-RH/scholar-compass)
+
+*An AI-powered academic advisor discovery system combining agentic workflows with graph-based retrieval.*
+
+- **Tech Stack:** Python, LangGraph, Claude, Neo4j, BGE-M3, GraphRAG.
+- **Highlights:** Developed multi-turn intent routing, entity disambiguation, semantic retrieval, and advisor comparison workflows. Optimized LLM routing and retrieval efficiency through benchmarking and evaluation.
+
+#### ⚡ [Distributed CUDA Ray Tracer](https://github.com/aimee-RH/distributed-cuda-ray-tracer)
+
+*A distributed GPU ray tracing system with tile-based rendering and worker scheduling.*
+
+- **Tech Stack:** C++17, CUDA, UDP, SFML, CMake.
+- **Highlights:** Implemented GPU-parallel ray tracing kernels, distributed tile processing, UDP worker communication, and timeout-based task rescheduling.
 ---
 
 ### 💻 Technical Expertise
